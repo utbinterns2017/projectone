@@ -1,0 +1,18 @@
+Scenario 1:
+1. Registration biasa. Details username, password, email, gender.
+2. Gender awal2 pakai dropdown.
+
+Update 1:
+1. Gender tukar jadi radio button
+
+Update 2: 
+1. Apply CSS design
+2. Background color: putih, Header: gray
+
+Branch 1 (experiment/new features):
+1. Apply validations:
+	i. username - 6 < x <= 20
+	ii. email must be in email format
+
+Scenario 2:
+1. Merge Branch 1 ke Master Branch
