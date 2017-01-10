@@ -13,6 +13,7 @@ Branch 1 (experiment/new features):
 1. Apply validations:
 	i. username - 6 < x <= 20
 	ii. email must be in email format
+	iii. cannot be empty
 
 Scenario 2:
 1. Merge Branch 1 ke Master Branch
