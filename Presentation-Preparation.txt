@@ -8,7 +8,7 @@ Update 1:
 Update 2: 
 1. Apply CSS design
 2. Background color: putih, Header: gray
-
+#comment
 Branch 1 (experiment/new features):
 1. Apply validations:
 	i. username - 6 < x <= 20
